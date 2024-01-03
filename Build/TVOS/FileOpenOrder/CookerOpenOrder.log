@@ -1565,7 +1565,6 @@
 "../../../Engine/Content/VREditor/TransformGizmo/TranslationHandle.uasset" 1564
 "../../../Engine/Content/VREditor/UI/KeyMaterial.uasset" 1565
 "../../../Engine/Content/VREditor/UI/FrameMaterial.uasset" 1566
-<<<<<<< HEAD
 "../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 1567
 "../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 1568
 "../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Basic_Wall.uasset" 1569
@@ -1682,503 +1681,7 @@
 "../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPersonBP/Maps/Map.uasset" 1680
 "../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 1681
 "../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPersonBP/Maps/Map_BuiltData.uasset" 1682
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1683
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1684
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1685
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 1686
-"../../Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 1687
-"../../Plugins/2D/Paper2D/Content/MaskedLitSpriteMaterial.uasset" 1688
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1689
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1690
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1691
-"../../Plugins/2D/Paper2D/Content/OpaqueLitSpriteMaterial.uasset" 1692
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1693
-"../../Plugins/2D/Paper2D/Content/TranslucentLitSpriteMaterial.uasset" 1694
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1695
-"../../Plugins/Editor/MeshEditor/Content/VerticalGradientTexture.uasset" 1696
-"../../Plugins/Editor/MeshEditor/Content/HoveredFaceMaterial.uasset" 1697
-"../../Plugins/Editor/MeshEditor/Content/HoveredGeometryMaterial.uasset" 1698
-"../../Plugins/Editor/MeshEditor/Content/OverlayLineMaterial.uasset" 1699
-"../../Plugins/Editor/MeshEditor/Content/OverlayPointMaterial.uasset" 1700
-"../../Plugins/Editor/MeshEditor/Content/WireMaterial.uasset" 1701
-"../../Plugins/Editor/MeshEditor/Content/WireMaterialBaseCage.uasset" 1702
-"../../Plugins/Editor/MeshEditor/Content/WireMaterialSubDMesh.uasset" 1703
-"../../Plugins/Editor/MeshEditor/Content/MeshEditorAssetContainer.uasset" 1704
-"../../Plugins/Editor/MeshEditor/Content/WireWorldOffset.uasset" 1705
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ActiveActor.uasset" 1706
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 1707
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 1708
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 1709
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 1710
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 1711
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SharedNode.uasset" 1712
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 1713
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrack.uasset" 1714
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenTimelineAnimation.uasset" 1715
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenTimeline.uasset" 1716
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_AnimatedNode.uasset" 1717
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Animation.uasset" 1718
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 1719
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/BP_AnimationPlayer.uasset" 1720
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 1721
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 1722
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrack.uasset" 1723
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDTimelineAnimation.uasset" 1724
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDTimeline.uasset" 1725
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimation.uasset" 1726
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimatedNode.uasset" 1727
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationPlayer.uasset" 1728
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/GeometryVariant.uasset" 1729
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/PackageVariant.uasset" 1730
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/CameraVariant.uasset" 1731
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchCamera.uasset" 1732
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchGeometry.uasset" 1733
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchPackage.uasset" 1734
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/SwitchObjectVariant.uasset" 1735
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchSwitchObject.uasset" 1736
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 1737
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitch.uasset" 1738
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/BP_VariantSelector.uasset" 1739
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/State.uasset" 1740
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDState.uasset" 1741
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDGeometryVariant.uasset" 1742
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDPackageVariant.uasset" 1743
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDCameraVariant.uasset" 1744
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchCamera.uasset" 1745
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchGeometry.uasset" 1746
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDLightVariant.uasset" 1747
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchLight.uasset" 1748
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDMaterialVariant.uasset" 1749
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchMaterial.uasset" 1750
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchPackage.uasset" 1751
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDTransformVariant.uasset" 1752
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchTransform.uasset" 1753
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 1754
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitch.uasset" 1755
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantsSelector.uasset" 1756
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 1757
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 1758
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsStruct.uasset" 1759
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/cylinder.uasset" 1760
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/disc.uasset" 1761
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/sphere.uasset" 1762
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/square.uasset" 1763
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsTable.uasset" 1764
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Arealight.uasset" 1765
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 1766
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 1767
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 1768
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_BaseMaster.uasset" 1769
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacityMaster.uasset" 1770
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacitySimpleMaster.uasset" 1771
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpaqueMaster.uasset" 1772
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CropUV.uasset" 1773
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CroppedUVMapping.uasset" 1774
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 1775
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Color.uasset" 1776
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/ExtractColor.uasset" 1777
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 1778
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/UVEdit.uasset" 1779
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Material.uasset" 1780
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/HSVtoRGB.uasset" 1781
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MirrorUVTiling.uasset" 1782
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RGBtoHSV.uasset" 1783
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/SketchUpMaster.uasset" 1784
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenUVEdit.uasset" 1785
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenBase.uasset" 1786
-"../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset" 1787
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMaster.uasset" 1788
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterAbsorb.uasset" 1789
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterClearCoat.uasset" 1790
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterTransparent.uasset" 1791
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDUVEdit.uasset" 1792
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDBase.uasset" 1793
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMaster.uasset" 1794
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterAbsorb.uasset" 1795
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterClearCoat.uasset" 1796
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterTransparent.uasset" 1797
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Base.uasset" 1798
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/ClearCoat.uasset" 1799
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Emissive.uasset" 1800
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/BaseOpacity.uasset" 1801
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Masked.uasset" 1802
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Opaque.uasset" 1803
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Transparent.uasset" 1804
-"../../Plugins/Enterprise/DatasmithContent/Content/Textures/S_LightArea.uasset" 1805
-"../../Plugins/Lumin/MagicLeapEmulator/Content/Materials/M_EmulatorBackground.uasset" 1806
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 1807
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 1808
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey.uasset" 1809
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 1810
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 1811
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 1812
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 1813
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 1814
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 1815
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 1816
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 1817
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 1818
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 1819
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/OculusGoController_albedo.uasset" 1820
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusGoControllerMaterial.uasset" 1821
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/OculusGoController.uasset" 1822
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 1823
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorHead.uasset" 1824
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorStem.uasset" 1825
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 1826
-"../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset" 1827
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1828
-"../../../Engine/Content/Maps/Entry.umap" 1829
-"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 1830
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1831
-"../../../Engine/Content/Maps/Templates/Template_Default.umap" 1832
-"../../../Engine/Content/Maps/Templates/VR-Basic_BuiltData.uasset" 1833
-"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 1834
-"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 1835
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1836
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1837
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 1838
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 1839
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset" 1840
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset" 1841
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 1842
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset" 1843
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset" 1844
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1845
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1846
-"../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1847
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1848
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1849
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1850
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1851
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1852
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1853
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1854
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1855
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1856
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1857
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1858
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1859
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1860
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1861
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1862
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1863
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1864
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1865
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1866
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1867
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Maps/Advanced_Lighting.umap" 1868
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1869
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_MacroVariation.uasset" 1870
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1871
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1872
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1873
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1874
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1875
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1876
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Statue_M.uasset" 1877
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Statue_N.uasset" 1878
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1879
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Architecture/Floor_400x400.uasset" 1880
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1881
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_Chair.uasset" 1882
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/Materials/M_Statue.uasset" 1883
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_Statue.uasset" 1884
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_TableRound_M.uasset" 1885
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_TableRound_N.uasset" 1886
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1887
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_TableRound.uasset" 1888
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Maps/Minimal_Default.umap" 1889
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Audio/Fire01_Cue.uasset" 1890
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1891
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1892
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1893
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Water_N.uasset" 1894
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1895
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1896
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/P_Fire.uasset" 1897
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1898
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1899
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/P_Smoke.uasset" 1900
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1901
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1902
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Spark_Core.uasset" 1903
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1904
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/P_Sparks.uasset" 1905
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1906
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Audio/Steam01_Cue.uasset" 1907
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1908
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1909
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Lamp_M.uasset" 1910
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Lamp_N.uasset" 1911
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1912
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1913
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1914
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1915
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1916
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1917
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1918
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1919
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1920
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1921
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1922
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1923
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1924
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1925
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1926
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1927
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1928
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1929
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1930
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1931
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1932
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1933
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1934
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1935
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1936
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1937
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1938
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1939
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1940
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1941
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1942
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1943
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1944
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1945
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1946
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1947
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1948
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1949
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1950
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1951
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1952
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1953
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1954
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1955
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1956
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1957
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1958
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1959
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1960
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1961
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1962
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1963
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1964
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1965
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1966
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1967
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1968
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1969
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1970
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1971
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1972
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1973
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1974
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1975
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1976
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1977
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1978
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1979
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1980
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1981
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1982
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1983
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1984
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1985
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1986
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1987
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1988
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1989
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1990
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1991
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1992
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1993
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1994
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1995
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1996
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1997
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1998
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1999
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 2000
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 2001
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 2002
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 2003
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 2004
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 2005
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Tech_Panel.uasset" 2006
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Water_Lake.uasset" 2007
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Water_M.uasset" 2008
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Water_Ocean.uasset" 2009
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 2010
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 2011
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 2012
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 2013
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 2014
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 2015
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 2016
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Wood_Oak.uasset" 2017
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 2018
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 2019
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Wood_Pine.uasset" 2020
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 2021
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 2022
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 2023
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Architecture/Wall_400x200.uasset" 2024
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 2025
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 2026
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Audio/Collapse_Cue.uasset" 2027
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 2028
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 2029
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 2030
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 2031
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/MaterialSphere.uasset" 2032
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Frame_M.uasset" 2033
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Frame_N.uasset" 2034
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/Materials/M_Frame.uasset" 2035
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_CornerFrame.uasset" 2036
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_DoorFrame.uasset" 2037
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_GlassWindow.uasset" 2038
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_PillarFrame.uasset" 2039
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_PillarFrame300.uasset" 2040
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_WindowFrame.uasset" 2041
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Shapes/Shape_Cube.uasset" 2042
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 2043
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Shapes/Shape_Sphere.uasset" 2044
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Maps/StarterMap.umap" 2045
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPersonBP/Maps/Menu_BuiltData.uasset" 2046
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPersonBP/Maps/Game_Found.uasset" 2047
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPersonBP/Maps/Server_Menu.uasset" 2048
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPersonBP/Maps/Menu.umap" 2049
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPersonBP/Maps/MyGame.uasset" 2050
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/Geometry/Meshes/CubeMaterial.uasset" 2051
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/Geometry/Meshes/1M_Cube.uasset" 2052
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 2053
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/Geometry/Meshes/TemplateFloor.uasset" 2054
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPerson/Meshes/RampMaterial.uasset" 2055
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 2056
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 2057
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 2058
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 2059
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 2060
-"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 2061
-=======
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 1567
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 1568
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Basic_Wall.uasset" 1569
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Architecture/Pillar_50x500.uasset" 1570
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Architecture/Wall_400x300.uasset" 1571
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Architecture/Wall_400x400.uasset" 1572
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Architecture/Wall_500x500.uasset" 1573
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 1574
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 1575
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Collapse01.uasset" 1576
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Collapse02.uasset" 1577
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Explosion01.uasset" 1578
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Explosion02.uasset" 1579
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Fire01.uasset" 1580
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Fire_Sparks01.uasset" 1581
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Light01.uasset" 1582
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Light01_Cue.uasset" 1583
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Light02.uasset" 1584
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Light02_Cue.uasset" 1585
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Smoke01.uasset" 1586
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Starter_Birds01.uasset" 1587
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Starter_Music01.uasset" 1588
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Starter_Wind05.uasset" 1589
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Starter_Wind06.uasset" 1590
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Steam01.uasset" 1591
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Explosion_Cue.uasset" 1592
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Burst_M.uasset" 1593
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Particles/Materials/M_Burst.uasset" 1594
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 1595
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 1596
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 1597
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 1598
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 1599
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 1600
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 1601
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Particles/P_Explosion.uasset" 1602
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 1603
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 1604
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 1605
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Bush_D.uasset" 1606
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Bush_N.uasset" 1607
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/Materials/M_Bush.uasset" 1608
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_Bush.uasset" 1609
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Chair_M.uasset" 1610
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Chair_N.uasset" 1611
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/Materials/M_Chair.uasset" 1612
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_Couch.uasset" 1613
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Glass.uasset" 1614
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Door_M.uasset" 1615
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Door_N.uasset" 1616
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/Materials/M_Door.uasset" 1617
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_Door.uasset" 1618
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 1619
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 1620
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 1621
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 1622
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 1623
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_RockMesh_M.uasset" 1624
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_RockMesh_N.uasset" 1625
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/Materials/M_Rock.uasset" 1626
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_Rock.uasset" 1627
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Shelf_M.uasset" 1628
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Shelf_N.uasset" 1629
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/Materials/M_Shelf.uasset" 1630
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_Shelf.uasset" 1631
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Basic_Floor.uasset" 1632
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_Stairs.uasset" 1633
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_Cone.uasset" 1634
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 1635
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 1636
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_Pipe.uasset" 1637
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 1638
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 1639
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_Plane.uasset" 1640
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_Torus.uasset" 1641
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_Trim.uasset" 1642
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 1643
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 1644
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 1645
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_Tube.uasset" 1646
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 1647
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 1648
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 1649
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 1650
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 1651
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 1652
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 1653
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 1654
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Animations/ThirdPersonRun.uasset" 1655
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 1656
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 1657
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 1658
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1659
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1660
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1661
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1662
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1663
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1664
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 1665
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1666
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1667
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1668
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1669
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 1670
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1671
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 1672
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 1673
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 1674
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 1675
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 1676
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 1677
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 1678
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPersonBP/Maps/ThirdPeronExampleMap.uasset" 1679
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPersonBP/Maps/Map.uasset" 1680
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 1681
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPersonBP/Maps/Map_BuiltData.uasset" 1682
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPersonBP/Maps/Menu_BuiltData.uasset" 1683
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPersonBP/Maps/Menu.uasset" 1683
 "../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1684
 "../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1685
 "../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1686
@@ -2344,18 +1847,18 @@
 "../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1846
 "../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1847
 "../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1848
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1849
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1850
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1851
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1852
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1853
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1854
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1855
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1856
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1857
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1858
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1859
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1860
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1849
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1850
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1851
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1852
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1853
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1854
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1855
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1856
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1857
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1858
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1859
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1860
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1861
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1862
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1863
@@ -2363,199 +1866,198 @@
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1865
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1866
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1867
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1868
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Maps/Advanced_Lighting.umap" 1869
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1870
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_MacroVariation.uasset" 1871
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1872
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1873
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1874
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1875
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1876
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1877
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Statue_M.uasset" 1878
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Statue_N.uasset" 1879
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1880
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Architecture/Floor_400x400.uasset" 1881
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1882
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_Chair.uasset" 1883
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/Materials/M_Statue.uasset" 1884
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_Statue.uasset" 1885
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_TableRound_M.uasset" 1886
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_TableRound_N.uasset" 1887
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1888
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_TableRound.uasset" 1889
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Maps/Minimal_Default.umap" 1890
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Fire01_Cue.uasset" 1891
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1892
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1893
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1894
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Water_N.uasset" 1895
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1896
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1897
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Particles/P_Fire.uasset" 1898
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1899
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1900
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Particles/P_Smoke.uasset" 1901
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1902
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1903
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Spark_Core.uasset" 1904
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1905
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Particles/P_Sparks.uasset" 1906
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1907
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Steam01_Cue.uasset" 1908
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1909
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1910
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Lamp_M.uasset" 1911
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Lamp_N.uasset" 1912
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1913
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1914
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1915
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1916
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1917
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1918
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1868
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Maps/Advanced_Lighting.umap" 1869
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1870
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_MacroVariation.uasset" 1871
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1872
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1873
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1874
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1875
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1876
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1877
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Statue_M.uasset" 1878
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Statue_N.uasset" 1879
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1880
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Architecture/Floor_400x400.uasset" 1881
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1882
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_Chair.uasset" 1883
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/Materials/M_Statue.uasset" 1884
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_Statue.uasset" 1885
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_TableRound_M.uasset" 1886
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_TableRound_N.uasset" 1887
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1888
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_TableRound.uasset" 1889
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Maps/Minimal_Default.umap" 1890
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Audio/Fire01_Cue.uasset" 1891
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1892
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1893
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1894
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Water_N.uasset" 1895
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1896
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1897
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/P_Fire.uasset" 1898
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1899
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1900
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/P_Smoke.uasset" 1901
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1902
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1903
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Spark_Core.uasset" 1904
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1905
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/P_Sparks.uasset" 1906
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1907
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Audio/Steam01_Cue.uasset" 1908
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1909
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1910
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Lamp_M.uasset" 1911
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Lamp_N.uasset" 1912
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1913
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1914
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1915
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1916
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1917
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1918
 "../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1919
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1920
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1921
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1922
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1923
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1924
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1925
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1926
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1927
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1928
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1929
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1930
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1931
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1932
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1933
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1934
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1935
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1936
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1937
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1938
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1939
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1940
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1941
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1942
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1943
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1944
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1945
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1946
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1947
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1948
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1949
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1950
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1951
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1952
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1953
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1954
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1955
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1956
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1957
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1958
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1959
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1960
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1961
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1962
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1963
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1964
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1965
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1966
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1967
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1968
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1969
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1970
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1971
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1972
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1973
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1974
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1975
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1976
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1977
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1978
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1979
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1980
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1981
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1982
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1983
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1984
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1985
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1986
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1987
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1988
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1989
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1990
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1991
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1992
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1993
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1994
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1995
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1996
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1997
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1998
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1999
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 2000
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 2001
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 2002
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 2003
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 2004
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 2005
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 2006
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Tech_Panel.uasset" 2007
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Water_Lake.uasset" 2008
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Water_M.uasset" 2009
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Water_Ocean.uasset" 2010
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 2011
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 2012
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 2013
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 2014
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 2015
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 2016
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 2017
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Wood_Oak.uasset" 2018
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 2019
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 2020
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Wood_Pine.uasset" 2021
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 2022
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 2023
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 2024
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Architecture/Wall_400x200.uasset" 2025
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 2026
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 2027
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Collapse_Cue.uasset" 2028
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 2029
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 2030
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 2031
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 2032
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/MaterialSphere.uasset" 2033
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Frame_M.uasset" 2034
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Textures/T_Frame_N.uasset" 2035
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/Materials/M_Frame.uasset" 2036
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_CornerFrame.uasset" 2037
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_DoorFrame.uasset" 2038
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_GlassWindow.uasset" 2039
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_PillarFrame.uasset" 2040
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_PillarFrame300.uasset" 2041
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Props/SM_WindowFrame.uasset" 2042
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_Cube.uasset" 2043
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 2044
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Shapes/Shape_Sphere.uasset" 2045
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/StarterContent/Maps/StarterMap.umap" 2046
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPersonBP/Maps/MyGame.uasset" 2047
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Geometry/Meshes/CubeMaterial.uasset" 2048
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Geometry/Meshes/1M_Cube.uasset" 2049
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 2050
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/Geometry/Meshes/TemplateFloor.uasset" 2051
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPerson/Meshes/RampMaterial.uasset" 2052
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 2053
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 2054
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 2055
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 2056
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 2057
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 2058
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPersonBP/Maps/Menu_OK_BuiltData.uasset" 2059
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPersonBP/Maps/Game_Found.uasset" 2060
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPersonBP/Maps/Server_Menu.uasset" 2061
-"../../../../../../Users/nitro/Documents/Unreal Projects/Shooter_56/Content/ThirdPersonBP/Maps/Menu_OK.umap" 2062
->>>>>>> 96bc5e4933084294f65f84ebc4c94e01a3efd8d8
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1920
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1921
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1922
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1923
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1924
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1925
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1926
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1927
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1928
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1929
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1930
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1931
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1932
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1933
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1934
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1935
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1936
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1937
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1938
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1939
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1940
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1941
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1942
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1943
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1944
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1945
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1946
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1947
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1948
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1949
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1950
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1951
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1952
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1953
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1954
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1955
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1956
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1957
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1958
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1959
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1960
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1961
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1962
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1963
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1964
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1965
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1966
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1967
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1968
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1969
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1970
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1971
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1972
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1973
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1974
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1975
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1976
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1977
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1978
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1979
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1980
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1981
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1982
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1983
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1984
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1985
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1986
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1987
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1988
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1989
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1990
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1991
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1992
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1993
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1994
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1995
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1996
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1997
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1998
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1999
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 2000
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 2001
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 2002
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 2003
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 2004
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 2005
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 2006
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Tech_Panel.uasset" 2007
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Water_Lake.uasset" 2008
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Water_M.uasset" 2009
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Water_Ocean.uasset" 2010
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 2011
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 2012
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 2013
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 2014
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 2015
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 2016
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 2017
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Wood_Oak.uasset" 2018
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 2019
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 2020
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Wood_Pine.uasset" 2021
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 2022
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 2023
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 2024
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Architecture/Wall_400x200.uasset" 2025
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 2026
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 2027
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Audio/Collapse_Cue.uasset" 2028
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 2029
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 2030
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 2031
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 2032
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/MaterialSphere.uasset" 2033
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Frame_M.uasset" 2034
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Textures/T_Frame_N.uasset" 2035
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/Materials/M_Frame.uasset" 2036
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_CornerFrame.uasset" 2037
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_DoorFrame.uasset" 2038
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_GlassWindow.uasset" 2039
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_PillarFrame.uasset" 2040
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_PillarFrame300.uasset" 2041
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Props/SM_WindowFrame.uasset" 2042
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Shapes/Shape_Cube.uasset" 2043
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 2044
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Shapes/Shape_Sphere.uasset" 2045
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/StarterContent/Maps/StarterMap.umap" 2046
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPersonBP/Maps/Menu_OK_BuiltData.uasset" 2047
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPersonBP/Maps/Game_Found.uasset" 2048
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPersonBP/Maps/Server_Menu.uasset" 2049
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPersonBP/Maps/Menu_OK.umap" 2050
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPersonBP/Maps/MyGame.uasset" 2051
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/Geometry/Meshes/CubeMaterial.uasset" 2052
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/Geometry/Meshes/1M_Cube.uasset" 2053
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 2054
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/Geometry/Meshes/TemplateFloor.uasset" 2055
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPerson/Meshes/RampMaterial.uasset" 2056
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 2057
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 2058
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 2059
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 2060
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 2061
+"../../../../../../Users/Admin/Documents/GitHub/shooter56/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 2062
